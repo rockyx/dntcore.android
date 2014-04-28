@@ -213,3 +213,7 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+gen/dnt/core/BuildConfig.java
+gen/dnt/core/R.java
+libs/android-support-v4.jar
+libs/armeabi/libdntcore.so
